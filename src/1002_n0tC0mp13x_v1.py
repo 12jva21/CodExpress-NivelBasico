@@ -18,7 +18,7 @@ if a==0:
 
 if a>0:
     discriminante= b**2 - 4*a*c
-    print(f"delta= {discriminante}") 
+    print(f"delta = {discriminante}") 
      
     if discriminante>=0:
 
